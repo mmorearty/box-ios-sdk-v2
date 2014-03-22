@@ -134,7 +134,7 @@ typedef enum {
     return _authorizationViewController;
 }
 
-#pragma mark - Bar Buton Items
+#pragma mark - Bar Button Items
 
 - (UIBarButtonItem *)closeItem
 {
